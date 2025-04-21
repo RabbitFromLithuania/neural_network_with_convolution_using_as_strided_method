@@ -1,0 +1,1 @@
+# neural_network_with_convolution_using_as_strided_method
